@@ -10,3 +10,5 @@ https://balisimaksi.arvcode.com/api/simaksi/{code}	=> [GET] Menampilkan semua da
 https://balisimaksi.arvcode.com/api/jenis		    => [GET] Menampilkan semua data jenis pengajuan
 https://balisimaksi.arvcode.com/api/kawasan		    => [GET] Menampilkan semua data lokasi
 https://balisimaksi.arvcode.com/api/rekening		=> [GET] Menampilkan semua data rekening
+
+aaaaa
